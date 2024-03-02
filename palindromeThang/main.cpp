@@ -1,14 +1,12 @@
-//
-//  main.cpp
-//  palindromeThang
-//
-//  Created by Joseph Craig on 3/2/24.
-//
-
 #include <iostream>
+#include <string>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    string donga = "";
+    
+    cin >> donga;
+    
+    
     return 0;
 }
